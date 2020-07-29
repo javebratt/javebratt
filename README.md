@@ -1,16 +1,20 @@
-### Hi there 👋
+# What do you write in an about page?
 
-<!--
-**javebratt/javebratt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Jorge and Emmanuel](assets/jorge.jpg)
 
-Here are some ideas to get you started:
+Seriously, what do you write in an about page? I’ll do my best to keep this page
+short and give you a few insights on who I am.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m Jorge and I am a software developer specialized in building mobile apps.
+
+For the past 6 years, I’ve been focused on building apps with web technologies
+(_such as Angular and Ionic Framework_) and Firebase.
+
+I’m an Ionic Framework Community Leader and a Google Developer Expert for
+Firebase.
+
+In my spare time, I enjoy playing Mario Kart with my son, going sightseeing with
+my wife and I’m determined to try all of the burgers in Colombia.
+
+Want to get in touch? The easiest way to reach out is through Twitter, you can
+find me there as [@javebratt](https://twitter.com/javebratt).

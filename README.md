@@ -1,6 +1,6 @@
 # What do you write in an about page?
 
-![Jorge and Emmanuel](javebratt/javebratt/assets/jorge.jpg)
+![Jorge and Emmanuel](https://github.com/javebratt/javebratt/blob/master/assets/jorge.jpg)
 
 Seriously, what do you write in an about page? I’ll do my best to keep this page
 short and give you a few insights on who I am.
